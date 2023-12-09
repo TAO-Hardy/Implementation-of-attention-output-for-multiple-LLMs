@@ -1,0 +1,7 @@
+Which team scored the first goal? 
+Which team got the last score in the game?
+What was the name of the player who scored the first goal?
+What was the name of the player who got the last goal in the game?
+When was the first goal scored?
+What was the final score of the match?
+Which team won the game?
